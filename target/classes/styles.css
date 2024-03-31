@@ -1,0 +1,125 @@
+
+.text-field{
+    -fx-font-family: Verdana;
+    -fx-font-size: 30;
+    -fx-border-color: #b78e63;
+    -fx-text-fill: white;
+    -fx-background-color: #35654d;
+    -fx-border-width: 5;
+}
+
+#imageView{
+    -fx-fit-to-height: 20;
+}
+#win{
+    -fx-font-size: 50;
+    -fx-font-family: Verdana;
+    -fx-fill: #25ff14;
+}
+
+#push{
+    -fx-font-size: 50;
+    -fx-font-family: Verdana;
+    -fx-fill: #ffdf46;
+}
+
+#lose{
+    -fx-font-size: 50;
+    -fx-font-family: Verdana;
+    -fx-fill: red;
+}
+
+#money{
+    -fx-pref-width: 500px;
+    -fx-pref-height:200px;
+    -fx-font-size:30;
+}
+
+#confirmBox{
+    -fx-spacing: 300;
+}
+
+#enterBox{
+    -fx-padding: 250;
+    -fx-spacing: 140;
+
+}
+
+#remainGamePage{
+    -fx-pref-width: 400px;
+    -fx-pref-height:120px;
+    -fx-font-size:18;
+    -fx-text-fill: white;
+    -fx-background-color: #35654d;
+}
+
+#instruction{
+
+    -fx-font-size: 35;
+    -fx-font-family: Verdana;
+    -fx-fill: white;
+    -fx-text-fill: white;
+    -fx-background-color: #35654d;
+}
+
+#moneyRemaining{
+    -fx-pref-width: 700px;
+    -fx-pref-height:200px;
+    -fx-text-fill: white;
+    -fx-background-color: #35654d;
+}
+
+
+
+#bet{
+    -fx-pref-width: 700px;
+    -fx-pref-height:150px;
+
+
+}
+
+.button{
+    -fx-pref-width: 350px;
+    -fx-pref-height:200px;
+    -fx-text-fill: #35654d;
+    -fx-font-family: Verdana;
+    -fx-font-size: 25;
+    -fx-border-color: #b78e63;
+    -fx-border-width: 5;
+
+}
+
+#playBtn{
+    -fx-pref-width: 200px;
+    -fx-pref-height:150px;
+}
+
+#borderPane{
+    -fx-background-color: #35654d;
+
+}
+
+
+#welcomeBox{
+    -fx-padding: 100;
+    -fx-spacing: 200;
+}
+
+#rules{
+    -fx-font-size: 25;
+    -fx-font-family: Verdana;
+    -fx-fill: white;
+
+
+}
+
+#textWelcome{
+    -fx-font-size: 55;
+    -fx-font-family: Rockwell;
+    -fx-fill: white;
+}
+
+
+#hbox{
+    -fx-spacing: 500;
+}
