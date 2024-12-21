@@ -1,4 +1,4 @@
-### Blackjack
+# Blackjack
 
 ## Features
 * Recreated the game of Blackjack in Java and designed the user interface of the game using JavaFX.
